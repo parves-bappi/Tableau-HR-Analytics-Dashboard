@@ -145,5 +145,5 @@ Interactive filtering allows users to move from high-level HR metrics to more de
 ---
 ## 📄 Bonus: Project Report
 A brief report is also included, providing additional details about the project and dashboard.
-📑 [View Project Report (PDF)](https://github.com/parves-bappi/Tableau-HR-Analytics-Dashboard/blob/316d793f7f5b11c42107c5ca3d2cfa09119dd9c2/HR%20Metrics%20and%20Data%20Analytics%20for%20Fort%20Motors%20using%20Tableau.pdf)
+📑 [View Project Report (PDF)](https://github.com/parves-bappi/Tableau-HR-Analytics-Dashboard/blob/8015dee0c1d3166fb0baeb488f4fb0c24fdf4fb2/HR%20Metrics%20and%20Data%20Analytics%20using%20Tableau.pdf)
 -----------------------
